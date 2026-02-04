@@ -1,0 +1,12 @@
+#files to ignore
+.obsidian/
+
+#macos
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Thumbs.db
+
+#md
+SOP.md
